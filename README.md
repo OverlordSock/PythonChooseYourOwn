@@ -7,3 +7,5 @@ error checking, logic driven Choose Your Own Adventure activities and a basic bu
 
 When presented with the choice of a direction to pick, choose forward, as the other choices are unfinished.
 The project serves as proof of concept for the game, and a future version is in development using Java to expand possibilities.
+
+![](https://github.com/OverlordSock/PythonChooseYourOwn/blob/main/chooseyourown.gif)
